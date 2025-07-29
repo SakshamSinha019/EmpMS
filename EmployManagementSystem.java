@@ -10,9 +10,7 @@ class MainMenu
 {
   public void menu()
   {
-    System.out.println("\t\t*******************************************");
-    System.out.println("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM");
-    System.out.println("\t\t*******************************************");
+
     System.out.println("\t\t\t    --------------------");
     System.out.println("\t\t\t     ~$ Abhinav Dubey");
     System.out.println("\t\t\t    --------------------");
